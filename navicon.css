@@ -1,0 +1,50 @@
+/* container1 */
+.bi{
+    font-size:xx-large;
+    
+}
+.icon1-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding: 2px;
+    margin: 2px;
+}
+
+
+
+/* container2 */
+.h1{
+    font-size:xx-large;
+    
+}
+
+.icon2-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding: 2px;
+    margin: 2px;
+}
+
+
+
+
+/* container3 */
+.icon3-container{
+    display: flex;
+    /* justify-content:space-between; */
+    gap: 20px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+}
+.bi-search{
+    position: absolute;
+    display: end;
+}
+
+/* container4 */
